@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599732375362",
+    "project_id": "authhoanganh",
+    "storage_bucket": "authhoanganh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599732375362:android:fdd9f6d9df4c8f449c42db",
+        "android_client_info": {
+          "package_name": "com.example.authhoanganh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599732375362-ro5i47o80inftqfee2c4v2qm0unac5et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFU3qMU1oeam6RX7GVY1DD-7oi7eKvNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599732375362-ro5i47o80inftqfee2c4v2qm0unac5et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
